@@ -20,6 +20,8 @@ This is my spin on the Marlin firmware for my setup:
 
 I'm keeping this fork relative up to date.
 
+> **Also, this setup has worked for me, so it should be OK... __but flash at your own risk.__**
+
 
 ## Submitting Changes
 
