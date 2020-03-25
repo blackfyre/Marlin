@@ -13,7 +13,7 @@ Please let us know if Marlin misbehaves in any way. Volunteers are standing by!
 ## Marlin 2.0 Blackfyre Edition
 
 This is my spin on the Marlin firmware for my setup:
- - Ender 3 with the BTT E3 DIP Board (yes, the 1.0 supports 512 Kb Flash)
+ - Ender 3 with the BTT E3 DIP Board
  - BL Touch with the Creality metal bracket for it (On the Z endstop pin, for now)
  - Filament run-out sensor
  - **Thermal run away protection enabled**
